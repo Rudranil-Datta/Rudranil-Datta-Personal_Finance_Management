@@ -373,4 +373,4 @@ const categoriesSchema = new Schema({
 
 
 const Categories = mongoose.model("Categories", categoriesSchema);
-export default User
+export default Categories;
